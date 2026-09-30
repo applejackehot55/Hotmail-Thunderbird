@@ -214,4 +214,4 @@ Hotmail for Thunderbird is offered as a full free version, with all features and
 Get started with Hotmail for Thunderbird today and enhance your email experience! Download now!
 
 ---
-**Last updated:** 2026-09-30 03:24:35 UTC
+**Last updated:** 2026-09-30 10:10:50 UTC
